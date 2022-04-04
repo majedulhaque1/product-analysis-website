@@ -25,20 +25,20 @@
         "img": "",
         "name": "Maria",
         "review" : "Watch is looking Awesome.Very good features.And this is afordable price.Watch UI is very nice.Watch bettary back is really good.",
-        "rating" : "5.0"
+        "rating" : "4.5"
     },
     {
         "id": "5",
         "img": "",
         "name": "Shuykut",
-        "review" : "This watch is really awesome.And very afordable price.And this watch is relaiable",
-        "rating" : "5.0"
+        "review" : "Watch are really awesome.And very good looking.",
+        "rating" : "4.0"
     },
     {
         "id": "6",
         "img": "",
         "name": "Jahangir",
-        "review" : "This watch is really awesome.And very afordable price.And this watch is relaiable",
+        "review" : "This watch really nice.Features are really good.Display is very nice.And stripe is very comfortable.And price is afordable.",
         "rating" : "5.0"
     }
 ]
