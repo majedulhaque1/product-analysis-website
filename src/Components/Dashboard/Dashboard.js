@@ -13,12 +13,12 @@ const Dashboard = () => {
     return (
         <div className='chart-container'>
             <div>
-                <h2 className='chart-title'>Investment VS Revenue</h2>
+                <h2 className='chart-title'>Month Wise Sell</h2>
                 <LineChart width={700} height={300} data={chartData}
                     margin={{ top: 5, right: 30, left: 20, bottom: 5 }}>
                     <CartesianGrid strokeDasharray="3 3" />
                     <XAxis dataKey="month" />
-                    <YAxis dataKey="investment" />
+                    <YAxis dataKey="sell" />
                     <Tooltip />
                     <Legend />
                     <Line type="monotone" dataKey="sell" stroke="#82ca9d" />
