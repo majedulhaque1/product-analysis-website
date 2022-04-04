@@ -1,14 +1,16 @@
 .customerreview-container{
     width: 100%;
+    height: 40vh;
     text-align: center;
 }
 .customerreview-container button{
     width: 200px;
     margin: 0 auto;
-    background-color: orange;
+    background-color: #ff3399;
     border: 0;
     border-radius: 10px;
     padding: 10px 20px;
+    color: #fff;
 }
 .customerreview-card{
     width: 90%;

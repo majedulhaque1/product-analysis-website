@@ -6,6 +6,9 @@
     align-items: center;
     margin: 0 auto;
 }
+.logo{
+    color: #fff;
+}
 .nav-items{
     height: 100%;
     display: flex;

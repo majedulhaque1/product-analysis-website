@@ -9,7 +9,7 @@ const CustomerReview = ({reviewItem}) => {
             <div>
                 <h2>{name}</h2>
                 <p>{review}</p>
-                <span>{rating}</span>
+                <span className='bold'>Rating: {rating}</span>
             </div>
         </div>
     );

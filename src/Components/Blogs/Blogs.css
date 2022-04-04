@@ -1,0 +1,13 @@
+.blogs-container{
+    width: 90%;
+    margin: 0 auto;
+    margin-top: 40px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 40px;
+}
+.blogs{
+    border: 2px solid #ff3399;
+    border-radius: 10px;
+    padding: 10px;
+}

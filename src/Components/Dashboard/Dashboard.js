@@ -18,7 +18,7 @@ const Dashboard = () => {
                     margin={{ top: 5, right: 30, left: 20, bottom: 5 }}>
                     <CartesianGrid strokeDasharray="3 3" />
                     <XAxis dataKey="month" />
-                    <YAxis dataKey="revenue" />
+                    <YAxis dataKey="investment" />
                     <Tooltip />
                     <Legend />
                     <Line type="monotone" dataKey="sell" stroke="#82ca9d" />
@@ -39,7 +39,7 @@ const Dashboard = () => {
                         </linearGradient>
                     </defs>
                     <XAxis dataKey="month" />
-                    <YAxis dataKey="revenue"/>
+                    <YAxis dataKey="investment"/>
                     <CartesianGrid strokeDasharray="3 3" />
                     <Tooltip />
                     <Legend/>

@@ -15,16 +15,17 @@
 .banner-left button{
     border: 0;
     border-radius: 6px;
-    background-color: orange;
+    background-color: #ff3399;
     margin-top: 20px;
     padding: 10px 20px;
     font-size: 20px;
+    color: #fff;
 }
 .banner-right{
     width: 40%;
 }
 .banner-right img{
-    width: 400px;
-    height: 400px;
+    width: 450px;
+    height: 450px;
     border-radius: 50%;
 }
