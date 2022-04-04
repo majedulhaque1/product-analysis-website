@@ -1,0 +1,11 @@
+.chart-container{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 40px;
+    text-align: center;
+    margin-top: 40px;
+}
+.chart-title{
+    font-size: 25px;
+    margin-bottom: 20px;
+}
