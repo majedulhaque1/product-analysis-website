@@ -1,0 +1,30 @@
+.banner-container{
+    width: 80%;
+    height: 90vh;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+}
+.banner-left{
+    width: 50%;
+}
+.banner-left h1 span{
+    font-size: 60px;
+}
+.banner-left button{
+    border: 0;
+    border-radius: 6px;
+    background-color: orange;
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 20px;
+}
+.banner-right{
+    width: 40%;
+}
+.banner-right img{
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+}
